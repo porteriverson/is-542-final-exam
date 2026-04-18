@@ -86,6 +86,7 @@ export default function App() {
   return (
     <main>
       <h1>Todo App</h1>
+      <p>Welcome to your new to do list app. Create a new todo item to get started. You'll feel so good as you check them off</p>
 
       <TodoForm
         availableTags={availableTags}

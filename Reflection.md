@@ -15,7 +15,7 @@ Tradeoff
 ================
 
 
-I don't have a lot of experience on the notification setup so I decided to not try and learn that new during this time frame. After I had the main functionality down I worked on getting it to save to localStorage instead of just using mock data and then the styling and little animations instead of trying to do the notifications and rework my data design.
+I don't have a lot of experience on the notification setup so I decided to not try and learn that new during this time frame. After I had the main functionality down I worked on getting it to save to localStorage instead of just using mock data and then the styling and little animations instead of trying to do the notifications and rework my data design. I have worked with supabase in the past and I really wanted to get to that point where I could save it in the cloud but I knew that would be a bonus if I got to that and it just did not end up being feasible with the time constraints. 
 
 ================
 
